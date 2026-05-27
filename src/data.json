@@ -1,0 +1,111 @@
+{
+  "name": "Grant Omyer",
+  "initials": "GO",
+  "title": "Security Consultant",
+  "practice": "Accenture — Cloud Security · Zero Trust, SASE & Infrastructure",
+  "level": "L9 · Zero Trust, SASE & Infrastructure",
+  "email": "grant.omyer@accenture.com",
+  "phone": "+1 (602) 880-4036",
+  "location": "500 West Madison Street, Chicago",
+  "stats": [
+    { "label": "Years in Cloud Security / Zero Trust", "value": "3.5+" },
+    { "label": "Practice", "value": "ZTSI" },
+    { "label": "Career Level", "value": "L9" }
+  ],
+  "summary": "Consultant within Accenture's ZTSI practice with 3.5+ years of experience in Cloud Security and Zero Trust. Specializes in Application Security, Vulnerability Management, Network Segmentation, and Zero Trust Architecture — building out segmentation programs and maturing VM capabilities for global clients.",
+  "elevatorPitch": "FY26 was defined by ownership and accountability — delivered the full workstream on time and on budget while managing the client relationship independently. Expanded impact through the AI Assistant initiative, presented to the SCE community on agentic capabilities, and stepped into a leadership role as North America co-lead for Secure Digital Core. Actively deepening AI and security expertise to take on expanded leadership responsibilities in FY27.",
+  "specializations": [
+    "Application Security",
+    "Network Segmentation",
+    "Zero Trust Security Architecture",
+    "Cloud Network Architecture",
+    "Security Monitoring Tools",
+    "Enterprise Security Architecture",
+    "Vulnerability Management",
+    "Zero Trust Solutions Implementation"
+  ],
+  "skills": [
+    { "name": "Zero Trust Architecture", "level": 92 },
+    { "name": "Network Segmentation (Illumio)", "level": 95 },
+    { "name": "Application Security", "level": 88 },
+    { "name": "Vulnerability Management", "level": 85 },
+    { "name": "Cloud Security (AWS / Azure / GCP)", "level": 80 },
+    { "name": "SASE / ZTNA (Zscaler, Netskope)", "level": 82 },
+    { "name": "Client Relationship Management", "level": 90 }
+  ],
+  "vendors": {
+    "primary": ["Illumio"],
+    "secondary": ["AWS", "Azure / Microsoft", "GCP", "Palo Alto", "Zscaler", "Netskope", "Tanium", "Brinqa"],
+    "notes": "W365 · Intune · Defender for ATP · Panorama · GlobalProtect · Prisma (SaaS)"
+  },
+  "certifications": [
+    { "name": "CCSK", "issuer": "Cloud Security Alliance", "status": "Certified" },
+    { "name": "CompTIA Security+", "issuer": "CompTIA", "status": "Certified" },
+    { "name": "Illumio Core Associate: SaaS", "issuer": "Illumio", "status": "Certified" },
+    { "name": "Illumio Core Specialist: SaaS", "issuer": "Illumio", "status": "Certified" },
+    { "name": "Illumio Zero Trust Segmentation Foundation", "issuer": "Illumio", "status": "Certified Services Partner" },
+    { "name": "Zscaler ZTCA", "issuer": "Zscaler", "status": "Certified" },
+    { "name": "Zscaler ZDTA", "issuer": "Zscaler", "status": "In Progress" }
+  ],
+  "experience": [
+    {
+      "role": "Security Consultant",
+      "client": "Critical Infrastructure Power Grid Company",
+      "period": "FY26",
+      "highlights": [
+        "Partnered with client to identify and close Vulnerability Management gaps around Application Hygiene (blocking & onboarding).",
+        "Matured the Application Hygiene program — built SOPs, Runbooks, and metrics to track progress against gaps.",
+        "Tracked OT compliance checks and developed repeatable templates for Operational Technology VM."
+      ]
+    },
+    {
+      "role": "Security Engineer",
+      "client": "Global Telecommunications Company",
+      "period": "FY25",
+      "highlights": [
+        "Implemented scalable, customized network security with Illumio across the client's environment.",
+        "Worked directly with app owners to tailor, change, and support applications for network security needs.",
+        "Enforced ~70 applications/week — one of the fastest Illumio rollouts Accenture has delivered."
+      ]
+    },
+    {
+      "role": "Delivery Lead",
+      "client": "Global Resources Company",
+      "period": "FY24 – FY25",
+      "highlights": [
+        "Managed a personal workstream of 3 applications/quarter — fully enforced ahead of schedule every quarter.",
+        "Fully enforced the client's SAP environment as part of the crown-jewels remediation following the breach.",
+        "Reported bi-weekly to leadership on operational impact across the workstream.",
+        "Authored Illumio Accelerators based on delivery work and submitted them for cross-client distribution."
+      ]
+    },
+    {
+      "role": "Security Engineer",
+      "client": "Global Resources Company",
+      "period": "FY23 – FY24",
+      "highlights": [
+        "Supported the client through a security breach — authored new Runbooks and lessons-learned process documentation.",
+        "Rapidly learned Illumio and built out network segmentation as the client's Zero Trust remediation strategy.",
+        "Monitored traffic, wrote security rules, and labeled new workstations to stand up the post-breach environment.",
+        "Owned the application onboarding process end-to-end and collaborated with application owners to roll out agents."
+      ]
+    }
+  ],
+  "clients": [
+    { "name": "Global Resources Company", "industry": "Resources", "period": "FY23 – FY25", "focus": "Post-breach Zero Trust segmentation with Illumio" },
+    { "name": "Global Telecommunications Company", "industry": "Communications & Media", "period": "FY25", "focus": "Enterprise micro-segmentation at scale" },
+    { "name": "Critical Infrastructure Power Grid Company", "industry": "Utilities", "period": "FY26", "focus": "Vulnerability Management & Application Hygiene" }
+  ],
+  "plusOne": [
+    {
+      "title": "Secure Digital Core — North America Co-Lead",
+      "detail": "Co-leading the NA SDC initiative alongside the team to bring Generative AI solutions to our clients — championing the adoption story while building the demos, agents, and platforms that make the case real."
+    }
+  ],
+  "fy26Themes": [
+    { "label": "Ownership", "text": "If it's on my plate, it gets delivered — I take full accountability for outcomes rather than waiting to be managed." },
+    { "label": "Best People", "text": "I invest in the people around me — lifting teammates up, sharing what I learn, and showing up as someone the team can count on." },
+    { "label": "Execution", "text": "I take in the full picture before acting — weighing perspectives and trade-offs to recommend the right solution, not just the obvious one." },
+    { "label": "Stewardship", "text": "I leave things better than I found them — documenting what I build and making the next person's job easier." }
+  ]
+}
