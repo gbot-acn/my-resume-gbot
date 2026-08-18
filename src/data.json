@@ -8,11 +8,11 @@
   "phone": "+1 (602) 880-4036",
   "location": "500 West Madison Street, Chicago",
   "stats": [
-    { "label": "Years in Cloud Security / Zero Trust", "value": "3.5+" },
+    { "label": "Years in Cloud Security / Zero Trust", "value": "4+" },
     { "label": "Practice", "value": "ZTSI" },
     { "label": "Career Level", "value": "L9" }
   ],
-  "summary": "Consultant within Accenture's ZTSI practice with 3.5+ years of experience in Cloud Security and Zero Trust. Specializes in Application Security, Vulnerability Management, Network Segmentation, and Zero Trust Architecture — building out segmentation programs and maturing VM capabilities for global clients.",
+  "summary": "Consultant within Accenture's ZTSI practice with 4+ years of experience in Cloud Security and Zero Trust. Specializes in Application Security, Vulnerability Management, Network Segmentation, and Zero Trust Architecture — building out segmentation programs and maturing VM capabilities for global clients.",
   "elevatorPitch": "FY26 was defined by ownership and accountability — delivered the full workstream on time and on budget while managing the client relationship independently. Expanded impact through the AI Assistant initiative, presented to the SCE community on agentic capabilities, and stepped into a leadership role as North America co-lead for Secure Digital Core. Actively deepening AI and security expertise to take on expanded leadership responsibilities in FY27.",
   "specializations": [
     "Application Security",
