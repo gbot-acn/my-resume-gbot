@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import photo from '/photo.jpg';
 
 export default function Hero({ data }) {
   const firstName = data.name.split(' ')[0];
@@ -22,7 +23,7 @@ export default function Hero({ data }) {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
         >
-          <img src="/photo.jpg" alt={data.name} />
+          <img src={photo} alt={data.name} />
         </motion.div>
 
         <motion.h1
